@@ -1,15 +1,15 @@
-#Amigo Secreto - Aplicación de Intercambio de Regalos
+# Amigo Secreto - Aplicación de Intercambio de Regalos
 
 Amigo Secreto es una aplicación web que te permite organizar un sorteo de intercambio de regalos de manera fácil y divertida. Puedes agregar a tus amigos, familiares o compañeros de trabajo, y la aplicación se encargará de asignar a cada persona un amigo secreto al azar. Además, podrás realizar un sorteo en cualquier momento con el clic de un botón.
 
-##Características
+## Características
 
 - Sorteo automático: La aplicación selecciona de manera aleatoria a un amigo secreto de los ingresados.
 
 - Sorteo al azar: Un botón permite realizar el sorteo de los amigos secretos en cualquier momento.
 
 
-##Cómo usar la aplicación
+## Cómo usar la aplicación
 
 **1.Agregar participantes:**
 
